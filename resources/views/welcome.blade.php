@@ -1,9 +1,7 @@
 <x-layout>
 
-    <section>
-        <div class="container">
-            Hello world
-        </div>
-    </section>
+    <x-flash type="success">
+        You are logged out!
+    </x-flash>
 
 </x-layout>
